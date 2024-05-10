@@ -1,0 +1,6 @@
+/binary_1gram.keras/
+/embeddings_bidir_gru.keras/
+/full_transformer_encoder.keras/
+/one_hot_bidir_lstm.keras/
+/transformer_encoder.keras/
+/my_env/
